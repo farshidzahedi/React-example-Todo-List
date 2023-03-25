@@ -1,0 +1,11 @@
+
+body {
+  background: #e7e7e7;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  direction: rtl;
+  font-family: "Yekan";
+
+}
